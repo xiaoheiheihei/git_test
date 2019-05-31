@@ -12,6 +12,7 @@ public class GitTestApplication {
         System.out.println("hello word");
         System.out.println(22222);
         System.out.println(5555555);
+        System.out.println(666666);
     }
 
 }
